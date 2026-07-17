@@ -1,7 +1,9 @@
 # sql-week2-assignment-judy
 
 **Name:** JUDY MOKAYA
+
 **Date:** 17-07-2026
+
 **Database:** PostgresSQL
 
 ## What this covers
